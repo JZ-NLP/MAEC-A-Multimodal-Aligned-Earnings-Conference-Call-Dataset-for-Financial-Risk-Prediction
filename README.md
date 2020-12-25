@@ -52,15 +52,27 @@ publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3340531.3412879},
 doi = {10.1145/3340531.3412879},
+<<<<<<< HEAD
 abstract = {In the area of natural language processing, various financial datasets have informed recent research and analysis including financial news, financial reports, social media, and audio data from earnings calls. We introduce a new, large-scale multi-modal, text-audio paired, earnings-call dataset named MAEC, based on S&amp;P 1500 companies. We describe the main features of MAEC, how it was collected and assembled, paying particular attention to the text-audio alignment process used. We present the approach used in this work as providing a suitable framework for processing similar forms of data in the future. The resulting dataset is more than six times larger than those currently available to the research community and we discuss its potential in terms of current and future research challenges and opportunities. All resources of this work are available at https://github.com/Earnings-Call-Dataset/},
 booktitle = {Proceedings of the 29th ACM International Conference on Information &amp; Knowledge Management},
 pages = {3063–3070},
 numpages = {8},
 keywords = {multimodal aligned datasets, earnings conference calls, financial risk prediction},
+=======
+abstract = {In the area of natural language processing, various financial datasets have informed recent research and analysis including financial news, financial reports, social media, and audio data from earnings calls. We introduce a new, large-scale multi-modal, text-audio paired, earnings-call dataset named MAEC, based on S&P 1500 companies. We describe the main features of MAEC, how it was collected and assembled, paying particular attention to the text-audio alignment process used. We present the approach used in this work as providing a suitable framework for processing similar forms of data in the future. The resulting dataset is more than six times larger than those currently available to the research community and we discuss its potential in terms of current and future research challenges and opportunities. All resources of this work are available at https://github.com/Earnings-Call-Dataset/},
+booktitle = {Proceedings of the 29th ACM International Conference on Information & Knowledge Management},
+pages = {3063–3070},
+numpages = {8},
+keywords = {earnings conference calls, multimodal aligned datasets, financial risk prediction},
+>>>>>>> 8313f81 (Update README.md)
 location = {Virtual Event, Ireland},
 series = {CIKM '20}
 }
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8313f81 (Update README.md)
 
 
 # Terms Of Use
